@@ -2,7 +2,9 @@
 
 Effisend is a highly optimized concierge application serving as the interface for massive-scale venue interactions. For the Tokyo Dome use-case, visitors interact with a decentralized AI agent for real-time guidance, navigate an interactive social map with live pins, and manage their dynamic digital access passes. By abstracting away traditional, clunky blockchain layers and settling all heavy lifting onto **0G**, we provide a Web2-speed experience with robust Web3 verifiability.
 
-**🔗 Test the Live Application:** [https://effisend-tdc.expo.app/](https://effisend-tdc.expo.app/)
+## **🔗 Test the Live Application:** [https://effisend-tdc.expo.app/](https://effisend-tdc.expo.app/)
+
+## **🔗 Check our video:**  [https://effisend-tdc.expo.app/](https://youtu.be/c8uJJfnThSQ)
 
 ---
 
